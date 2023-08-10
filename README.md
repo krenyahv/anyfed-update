@@ -2,6 +2,8 @@
 
 Welcome to anyfed!
 
+This fork updates the source for the legacy
+
 An universal Fedora chroot tool which lets you run Fedora anywhere on anything, with or without root.
 
 Supported architectures:
